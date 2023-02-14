@@ -13,6 +13,7 @@ SUMMER PROJECT
 - dont care about spaces (do entire prompt as one; when word ends and new begins, one element abbrv can satisfy both [hell raiser <-- end of hell and start of raiser can be substituted with lawrencium lr])
 - care about spaces (do each word individually; less options and configurations, but faster)
 - use fictional elements (since periodic table does not cover all of alphabet)
+- random integer for groups with letter (would work better with fictional since there arent a lot of options with real elements)
 
 ## sources
 - http://www.lmntology.com/nameAsElementsWhite.php
